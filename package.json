@@ -1,0 +1,16 @@
+{
+  "name": "tuition-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for tuition center",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "twilio": "^4.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
