@@ -175,7 +175,7 @@ const tuitionData = {
   
   // Contact and center information
   contact: {
-    phone: "91070546",
+    phone: "88061249",
     contactPerson: "Mr Tok",
     address: "Block 748, Jurong West St 73, #B1-127, Singapore 640748",
     email: "newtonlabtuition@gmail.com",
