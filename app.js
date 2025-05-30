@@ -23,7 +23,7 @@ function getBotResponse(userMessage) {
   
   // TRIAL BOOKING
   if (message.includes('book') || message.includes('trial')) {
-    return "📅 *Book Your FREE Trial Class*\n\n🎯 *Available This Week:*\n• Tomorrow 4:00 PM - P4 Math\n• Tomorrow 5:00 PM - P5 Science\n• This Saturday 2:00 PM - Sec 3 Chemistry\n\n📝 *To confirm your trial:*\n\n✅ Type \"CONFIRM\" to book\n❌ Type \"CANCEL\" if not interested\n📞 Call Mr Tok: 91070546\n\n⏰ We'll contact you within 1 hour!";
+    return "📅 *Book Your FREE Trial Class*\n\n🎯 *Available This Week:*\n• Tomorrow 4:00 PM - P4 Math\n• Tomorrow 5:00 PM - P5 Science\n• This Saturday 2:00 PM - Sec 3 Chemistry\n\n📝 *To confirm your trial:*\n\n✅ Type \"CONFIRM\" to book\n❌ Type \"CANCEL\" if not interested\n📞 Call Mr Tok: 88061249\n\n⏰ We'll contact you within 1 hour!";
   }
   
   // CONFIRMATIONS
